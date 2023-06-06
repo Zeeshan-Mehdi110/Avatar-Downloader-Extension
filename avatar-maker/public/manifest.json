@@ -1,13 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Avatar Maker",
-  "description": "A Chrome extension that creates avatars.",
+  "name": "Avatar Downloader",
+  "description": "Download avatar images from the Avatar Maker extension.",
   "version": "1.0",
   "action": {
     "default_popup": "index.html",
-    "default_title": "Avatar Maker"
+    "default_icon" : "avatar.png",
+    "default_title": "Avatar Downloader"
   },
   "permissions": [
-    "scripting"
+    "scripting",
+    "downloads"
   ]
 }
