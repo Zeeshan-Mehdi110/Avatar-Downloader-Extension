@@ -1,2 +1,1 @@
-# Avatar Maker Extension
- 
+# Avatar Downloader Chrome Extension
